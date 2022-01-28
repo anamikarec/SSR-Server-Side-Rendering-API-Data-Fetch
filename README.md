@@ -12,4 +12,4 @@
 ```js
   http://localhost:4000/users/1
 ```
-#### NOte:~ You Can change the ID by ```http://localhost:4000/users/2``` or ```http://localhost:4000/users/3```
+#### Note:~ You Can change the ID by ```http://localhost:4000/users/2``` or ```http://localhost:4000/users/3```
